@@ -1,0 +1,34 @@
+{
+  "requirements": [
+    {
+      "id": "REQ-001",
+      "requirement": "As a user, I want to login with my email and password so that I can access my account",
+      "category": "authentication",
+      "priority": "high"
+    },
+    {
+      "id": "REQ-002",
+      "requirement": "As a customer, I want to search for products by name so that I can find what I need quickly",
+      "category": "search",
+      "priority": "high"
+    },
+    {
+      "id": "REQ-003",
+      "requirement": "As an admin, I want to upload a CSV file of products so that I can bulk-import inventory",
+      "category": "file_management",
+      "priority": "medium"
+    },
+    {
+      "id": "REQ-004",
+      "requirement": "The user should be able to register with a valid email address and receive a confirmation email",
+      "category": "registration",
+      "priority": "high"
+    },
+    {
+      "id": "REQ-005",
+      "requirement": "As a buyer, I want to add items to my shopping cart and proceed to checkout so that I can purchase products",
+      "category": "checkout",
+      "priority": "high"
+    }
+  ]
+}

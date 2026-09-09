@@ -1,0 +1,6 @@
+id,requirement,category,priority
+REQ-001,"As a user, I want to login with my email and password so that I can access my account",authentication,high
+REQ-002,"As a customer, I want to search for products by name so that I can find what I need quickly",search,high
+REQ-003,"As an admin, I want to upload a CSV file of products so that I can bulk-import inventory",file_management,medium
+REQ-004,"The user should be able to register with a valid email address and receive a confirmation email",registration,high
+REQ-005,"As a buyer, I want to add items to my shopping cart and proceed to checkout so that I can purchase products",checkout,high
