@@ -1,0 +1,14 @@
+﻿{
+    "features":  [
+
+                 ],
+    "description":  "Takes plain English requirements or user stories and generates complete Gherkin/Cucumber BDD scenarios with Given/When/Then steps, edge cases, and .feature files compatible with behave/pytest-bdd.",
+    "tech_stack":  [
+                       "nltk",
+                       "pytest"
+                   ],
+    "difficulty":  "advanced",
+    "category":  "qa-ai-automation",
+    "title":  "BDD Scenario Generator",
+    "project_name":  "bdd-scenario-generator"
+}
