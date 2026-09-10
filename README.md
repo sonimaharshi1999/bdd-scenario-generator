@@ -1,5 +1,7 @@
 # BDD Scenario Generator
 
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 Automatically generate complete Gherkin/Cucumber BDD scenarios (`.feature` files) from plain English requirements or user stories. Powered by NLP (NLTK), this tool parses natural language, extracts actors, actions, conditions, and assertions, then produces well-structured Given/When/Then scenarios -- including edge cases -- ready for behave, pytest-bdd, or any Cucumber-compatible runner.
 
 ---
